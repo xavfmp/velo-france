@@ -2,6 +2,8 @@
 
 Jeu de données de l'étude **« Construire des pistes cyclables ne suffit pas »** : pour chaque commune de France métropolitaine, le linéaire d'aménagements cyclables (Géovélo / OpenStreetMap), la part des actifs qui vont travailler à vélo (Insee) et, pour les 2 626 communes qualifiées, la note du Baromètre vélo 2025 de la FUB. Un second jeu détaille les 20 arrondissements de Paris.
 
+Article : [Construire des pistes cyclables ne suffit pas](https://xj1.fr/blog/construire-des-pistes-cyclables-ne-suffit-pas-2600-communes-et-vingt-arrondissements) (xj1.fr).
+
 Dernière mise à jour des données : octobre 2026.
 
 ## Fichiers
