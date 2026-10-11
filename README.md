@@ -4,6 +4,8 @@ Jeu de données de l'étude **« Construire des pistes cyclables ne suffit pas �
 
 Article : [Construire des pistes cyclables ne suffit pas](https://xj1.fr/blog/construire-des-pistes-cyclables-ne-suffit-pas-2600-communes-et-vingt-arrondissements) (xj1.fr).
 
+Suite consacrée à Paris : [Vélo à Paris : l'ouest a presque doublé ses pistes, mais y est moins bien noté que l'est](https://xj1.fr/blog/velo-a-paris-l-ouest-a-presque-double-ses-pistes-mais-y-est-moins-bien-note) (xj1.fr).
+
 Dernière mise à jour des données : octobre 2026.
 
 ## Fichiers
